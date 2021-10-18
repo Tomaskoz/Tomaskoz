@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @Tomaskoz
+- 👀 I’m interested in Security 
+- 🌱 I’m currently learning Python
+- 💞️ I’m looking to collaborate on ...
+- 📫 How to reach me ... #workingonit
